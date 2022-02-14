@@ -24,7 +24,7 @@
 
 4.	RESPUESTAS A INTERROGANTES Y CALCULO DEL ERROR.
 
-![Lab 8_Página_3](https://user-images.githubusercontent.com/93209004/153963829-85a7fe3f-056a-48d8-9a18-e501a50faa2f.jpg)
+![Páginas desdeLab 8 pdf](https://user-images.githubusercontent.com/93209004/153964151-cffb6616-3bee-49e3-a0ae-a8f123250add.jpg)
 ![Lab 8_Página_4](https://user-images.githubusercontent.com/93209004/153963831-602a87e6-fbd7-476e-b726-18d48fbd8e02.jpg)
 
 5.	VIDEO
