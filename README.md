@@ -4,11 +4,11 @@
 
 1.1.	Objetivos Generales 
 
-
+•	Determinar experimentalmente el comportamiento y las características de las ondas sinusoidales a través de la medición de voltajes, frecuencia y periodo.  
 
 1.2.	Objetivos Específicos 
 
-
+•	Aprender el uso correcto del osciloscopio y sus múltiples funciones para los circuitos de corriente alterna. 
 
 2.	MARCO TEORICO 
 
@@ -30,6 +30,8 @@
 5.	VIDEO
 
 6.	CONCLUSIONES	
+
+
 
 7. BIBLIOGRAFÍA 
 
