@@ -33,7 +33,9 @@ https://www.youtube.com/watch?v=WlMYt5C88EE
 
 6.	CONCLUSIONES	
 
+•	Un osciloscopio permite analizar forma detallada cada fenómeno que sucede en el transcurso de la onda ya que esta es generada gracias a la fuente de voltaje alterno, mostrando diferentes aspectos de esta onda como : periodo, amplitud, etc.
 
+• Debido a los mandos que contiene el osciloscopio se puede modificar la estructura de la onda siendo así una forma mas fácil de visualizarlo, además que entrega datos a tiempo real en diferentes magnitudes siendo así una herramienta bastante completa.
 
 7. BIBLIOGRAFÍA 
 
