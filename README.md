@@ -10,6 +10,8 @@
 
 •	Aprender el uso correcto del osciloscopio y sus múltiples funciones para los circuitos de corriente alterna. 
 
+• Analizar las ventajas que entrega un osciloscopio con respecto a otras herramientas.
+
 2.	MARCO TEORICO 
 
 3.	EXPLICACION DEL PROCEDIMIENTO
